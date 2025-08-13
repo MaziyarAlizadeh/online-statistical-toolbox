@@ -1,15 +1,14 @@
 # Online Statistical Toolbox
+This repository is a ready-to-publish statistical toolkit on GitHub/Colab. It includes notebooks,
+sample data, explanations, and documented code for the main statistical methods.
+Content summary:
+• Descriptive statistics, hypothesis tests (t, ratios, chi-square, normality), ANOVA, linear/logistic regression, bootstrap and power tests, basic time series.
+• Includes documented code, graphs, sample datasets, and a navigation menu.
+• Interactivity with ipywidgets (optional).
+Resources: Explanations and practical tips are included inside each notebook; I will add more resource links as needed.
 
-این مخزن یک جعبه‌ابزار آماری آماده برای انتشار در GitHub/Colab است. شامل نوت‌بوک‌ها،
-داده‌های نمونه، توضیحات و کدهای مستند برای روش‌های اصلی آماری.
-خلاصهٔ محتوا:
-	•	آمار توصیفی، آزمون‌های فرض (t، نسبت، کای‌دو، نرمال‌بودن)، ANOVA، رگرسیون خطی/لجستیک، بوت‌استرپ و توان آزمون، سری‌های زمانی پایه.
-	•	شامل کدهای مستند، نمودارها، دیتاست‌های نمونه و فهرست ناوبری.
-	•	قابلیت تعاملی با ipywidgets (اختیاری).
-منابع: داخل هر نوت‌بوک توضیح و نکات کاربردی آمده؛ در صورت نیاز، لینک‌های منابع بیشتر اضافه می‌کنم.
 
-
-## ساختار
+## Structure
 ```
 statistical_toolbox/
 ├─ data/
